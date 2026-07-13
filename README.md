@@ -2,9 +2,23 @@
 
 # Kishorekumar M
 
-### MCA Graduate | Full Stack Developer | IoT Engineer | Data Analytics 
+### Full Stack Developer • IoT Engineer • Data Analytics 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;Rust+Backend+Engineer;IoT+Application+Developer;Python+Programmer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=MCA+Graduate;Full+Stack+Developer;Flutter+Developer;Rust+Backend+Engineer;Python+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies"/>
+
+<br>
+
+<a href="mailto:kishorekumarmayilvahanan27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank](https://www.linkedin.com/in/m-kishore-kumar-m?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
 
 </div>
 
@@ -12,169 +26,218 @@
 
 # About Me
 
-I am an MCA graduate with a strong foundation in software development, cloud computing, backend engineering, IoT systems, and data analytics. I enjoy designing scalable applications, solving complex problems, and continuously learning emerging technologies.
+I am an MCA graduate with a strong background in software development, IoT systems, backend engineering, cloud computing, and data analytics.
+
+I enjoy designing scalable applications, solving real-world problems, and continuously exploring new technologies. My interests include Full Stack Development, Artificial Intelligence, Cloud Computing, Data Analytics, and High-Performance Backend Systems.
 
 ---
 
-# Technologies
+# Technologies & Tools
 
-### Languages
+## Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,rust,dart,js,php,cs,mysql"/>
-</p>
+<table>
+<tr>
 
-### Frameworks & Tools
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+Python
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,flask,html,css,git,github,vscode"/>
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=rust" width="55"/><br>
+Rust
+</td>
 
-### Currently Exploring
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=dart" width="55"/><br>
+Dart
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux"/>
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+JavaScript
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=php" width="55"/><br>
+PHP
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cs" width="55"/><br>
+C#
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Featured Projects
+## Frontend
 
-## SensorHub
+<table>
+<tr>
 
-Cross-platform IoT management platform developed using Flutter and Rust.
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=flutter" width="55"/><br>
+Flutter
+</td>
 
-**Features**
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+HTML5
+</td>
 
-- Real-time sensor monitoring
-- Live analytics dashboard
-- High-performance Rust backend
-- Cross-platform Flutter application
-- IoT device communication
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+CSS3
+</td>
+
+</tr>
+</table>
 
 ---
 
-## AI-Based Product Summary Generator
+## Backend
 
-Python NLP application for intelligent product review summarization.
+<table>
+<tr>
 
-**Technologies**
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=flask" width="55"/><br>
+Flask
+</td>
 
-- Python
-- NLP
-- Data Annotation
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/REST-API-009688?style=flat-square"/>
+<br>
+REST API
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
+<br>
+SQLAlchemy
+</td>
+
+</tr>
+</table>
+
+---
+
+## Databases
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+MySQL
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square"/>
+<br>
+SQL Server
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br>
+SQLite
+</td>
+
+</tr>
+</table>
+
+---
+
+## Cloud & DevOps
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+Git
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+GitHub
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
+Docker
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
+Linux
+</td>
+
+</tr>
+</table>
+
+---
+
+## Tools
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+VS Code
+</td>
+
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="55"/><br>
+Android Studio
+</td>
+
+</tr>
+</table>
+
+---
+
+## Data & AI
+
+- Artificial Intelligence (Basics)
+- Machine Learning (Basics)
+- Natural Language Processing (NLP)
+- Exploratory Data Analysis (EDA)
+- Data Annotation & Labeling
 - Data Cleaning
 - Large Dataset Processing
 
 ---
 
-## E-Courier Hub
+# Featured Projects
 
-Logistics and shipment management platform.
+### SensorHub
 
-**Features**
-
-- Shipment tracking
-- Revenue analytics
-- Role-based system
-- CSV reporting
-- Flask + SQLAlchemy + MySQL
+Cross-platform IoT management platform built using Flutter and Rust featuring real-time sensor monitoring, live analytics, and high-performance backend architecture.
 
 ---
 
-# Internship Experience
+### AI-Based Product Summary Generator
 
-| Company | Role |
-|---------|------|
-| Kolozen Tech World | Software Development Intern |
-| Orizsoft Pvt Ltd | Web Development Intern |
-| Accenture (Forage) | Data Analytics & Visualization |
-| Plasmid Technologies | Cloud Computing Intern |
+Python-based NLP application capable of summarizing product reviews using text preprocessing, annotation, and natural language processing.
 
 ---
 
-# Skills
+### E-Courier Hub
 
-```
-Programming
-Python • Rust • JavaScript • SQL • PHP • C# • Dart
-
-Frontend
-Flutter • HTML • CSS • JSP
-
-Backend
-Flask • REST APIs • SQLAlchemy
-
-Database
-MySQL • PHPMyAdmin
-
-Cloud
-Cloud Computing • Virtualization
-
-AI & Data
-EDA • NLP • Data Annotation • AI/ML Basics
-```
+Logistics platform developed using Flask, SQLAlchemy, and MySQL featuring shipment tracking, revenue analytics, role-based access control, and automated reporting.
 
 ---
 
-# GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-
-</div>
-
----
-
-# Connect
-
-Email
-
-```
-kishorekumarmayilvahanan27@gmail.com
-```
-
-LinkedIn
-
-```
-[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/m-kishore-kumar-m?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-```
-
----
-
-<div align="center">
-
-*"Building scalable software with clean architecture and continuous learning."*
+*"Building scalable software through clean architecture, continuous learning, and innovative problem-solving."*
 
 </div>
