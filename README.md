@@ -200,12 +200,11 @@
 
 📧 **Email:** kishorekumarmayilvahanan27@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
+💼 **LinkedIn:** [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/m-kishore-kumar-m?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-🌐 **Portfolio:** Coming Soon
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+ Thanks for visiting my profile! 
 </h3>
