@@ -152,39 +152,57 @@ SQLite
 
 ---
 
-## Cloud & DevOps
+## Cloud & Data Analytics
+
 
 <table>
+
 <tr>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
-Git
+<img src="https://img.shields.io/badge/Cloud-Computing-4285F4?style=flat-square&logo=icloud"/>
+<br>
+Cloud Computing
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
-GitHub
+<img src="https://img.shields.io/badge/Virtualization-555555?style=flat-square"/>
+<br>
+Virtualization
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
-Docker
+<img src="https://img.shields.io/badge/Distributed-Systems-1E88E5?style=flat-square"/>
+<br>
+Distributed Systems
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
-Linux
+<img src="https://img.shields.io/badge/EDA-4CAF50?style=flat-square"/>
+<br>
+Exploratory Data Analysis
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Data-Cleaning-0A66C2?style=flat-square"/>
+<br>
+Data Cleaning
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Data-Visualization-8E24AA?style=flat-square"/>
+<br>
+Data Visualization
 </td>
 
 </tr>
-</table>
 
----
+</table>
 
 ## Tools
 
 <table>
+
 <tr>
 
 <td align="center" width="120">
@@ -192,13 +210,85 @@ Linux
 VS Code
 </td>
 
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=androidstudio" width="55"/><br>
 Android Studio
 </td>
 
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=eclipse" width="55"/><br>
+Eclipse
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/MySQL-Workbench-4479A1?style=flat-square&logo=mysql"/>
+<br>
+MySQL Workbench
+</td>
+
 </tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/SQL%20Server-Management%20Studio-CC2927?style=flat-square&logo=microsoftsqlserver"/>
+<br>
+SQL Server Management Studio
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter"/>
+<br>
+Jupyter Notebook
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Anaconda-Navigator-44A833?style=flat-square&logo=anaconda"/>
+<br>
+Anaconda Navigator
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Tableau-005571?style=flat-square&logo=tableau"/>
+<br>
+Tableau
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<br>
+Power BI
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+GitHub
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp"/>
+<br>
+XAMPP
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/WAMP-Server-FF6600?style=flat-square"/>
+<br>
+WAMP
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoftoffice"/>
+<br>
+MS Office
+</td>
+
+</tr>
+
 </table>
 
 ---
