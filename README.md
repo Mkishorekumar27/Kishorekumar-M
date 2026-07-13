@@ -1,210 +1,180 @@
-<h1 align="center">Hi 👋, I'm Kishorekumar M</h1>
-<h3 align="center">MCA Graduate | Full Stack Developer | IoT & Backend Engineer | Data Analytics Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Rust+Backend+Developer;Python+Programmer;IoT+Application+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" />
+# Kishorekumar M
+
+### MCA Graduate | Full Stack Developer | IoT Engineer | Data Analytics Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;Rust+Backend+Engineer;IoT+Application+Developer;Python+Programmer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+# About Me
+
+I am an MCA graduate with a strong foundation in software development, cloud computing, backend engineering, IoT systems, and data analytics. I enjoy designing scalable applications, solving complex problems, and continuously learning emerging technologies.
+
+---
+
+# Technologies
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,rust,dart,js,php,cs,mysql"/>
+</p>
+
+### Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,flask,html,css,git,github,vscode"/>
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# Featured Projects
 
-🎓 MCA Graduate with a strong foundation in software development, cloud computing, IoT systems, and data analytics.
+## SensorHub
 
-💡 Passionate about building scalable applications, backend systems, and solving real-world problems through technology.
+Cross-platform IoT management platform developed using Flutter and Rust.
 
-🚀 Experienced in Flutter, Rust, Python, Flask, SQL, AI/ML basics, NLP, and REST APIs.
+**Features**
 
-📊 Interested in Data Analytics, IoT, Cloud Computing, Artificial Intelligence, and Software Engineering.
-
-🌱 Currently learning advanced backend development, distributed systems, and AI technologies.
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp)
-![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge)
+- Real-time sensor monitoring
+- Live analytics dashboard
+- High-performance Rust backend
+- Cross-platform Flutter application
+- IoT device communication
 
 ---
 
-### Frameworks & Technologies
+## AI-Based Product Summary Generator
 
-- Flutter
-- Flask
-- REST APIs
-- SQLAlchemy
-- HTML5
-- CSS3
-- JSP
-- Git & GitHub
+Python NLP application for intelligent product review summarization.
 
----
+**Technologies**
 
-### Databases
-
-- MySQL
-- PHPMyAdmin
-
----
-
-### AI & Data
-
-- Exploratory Data Analysis (EDA)
+- Python
+- NLP
 - Data Annotation
 - Data Cleaning
-- Data Quality Validation
-- NLP
-- AI / ML Basics
 - Large Dataset Processing
 
 ---
 
-### Cloud & Systems
+## E-Courier Hub
 
-- Cloud Computing
-- Virtualization
-- Distributed Systems
+Logistics and shipment management platform.
 
----
+**Features**
 
-## 🚀 Featured Projects
-
-### 📡 SensorHub – Multi-Sensor Management System
-
-- Flutter Frontend
-- Rust Backend
-- Real-time IoT Monitoring
-- Live Sensor Analytics
-- Cross-platform Application
+- Shipment tracking
+- Revenue analytics
+- Role-based system
+- CSV reporting
+- Flask + SQLAlchemy + MySQL
 
 ---
 
-### 🤖 AI-Based Product Summary Generator
+# Internship Experience
 
-- Python
-- NLP
-- Text Preprocessing
-- Product Review Summarization
-- Data Annotation
-
----
-
-### 🚚 E-Courier Hub
-
-- Flask
-- SQLAlchemy
-- MySQL
-- Shipment Tracking
-- Revenue Analytics Dashboard
-- CSV Report Generation
+| Company | Role |
+|---------|------|
+| Kolozen Tech World | Software Development Intern |
+| Orizsoft Pvt Ltd | Web Development Intern |
+| Accenture (Forage) | Data Analytics & Visualization |
+| Plasmid Technologies | Cloud Computing Intern |
 
 ---
 
-## 💼 Internship Experience
+# Skills
 
-### 💻 Software Development Intern
-**Kolozen Tech World Pvt Ltd**
+```
+Programming
+Python • Rust • JavaScript • SQL • PHP • C# • Dart
 
-- Developed SensorHub IoT Platform
-- Flutter + Rust Development
-- Real-time Sensor Communication
+Frontend
+Flutter • HTML • CSS • JSP
 
----
+Backend
+Flask • REST APIs • SQLAlchemy
 
-### 🌐 Web Development Intern
-**Orizsoft Pvt Ltd**
+Database
+MySQL • PHPMyAdmin
 
-- Responsive Website Development
-- HTML
-- CSS
-- JavaScript
+Cloud
+Cloud Computing • Virtualization
 
----
-
-### 📊 Data Analytics & Visualization
-**Accenture (Forage)**
-
-- Exploratory Data Analysis
-- Data Cleaning
-- Business Insights
+AI & Data
+EDA • NLP • Data Annotation • AI/ML Basics
+```
 
 ---
 
-### ☁️ Cloud Computing Intern
-**Plasmid Technologies**
+# GitHub Statistics
 
-- Cloud Deployment
-- Virtualization
-- Distributed Systems
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-## 📜 Certifications
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
-- Data Analytics & Visualization Simulation – Accenture (Forage)
-- AI Model Workshop – Rencoders Academy
-- Cloud & Web Development Internship
-- Software Development Internship
+</div>
 
 ---
 
-## 💡 Soft Skills
+<div align="center">
 
-- Problem Solving
-- Analytical Thinking
-- Logical Reasoning
-- Critical Thinking
-- Team Collaboration
-- Effective Communication
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🌍 Languages
+# Activity Graph
 
-- English
-- Tamil
-- Telugu
-- Hindi
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-## 📫 Connect With Me
+# Profile Views
 
-📧 **Email:** kishorekumarmayilvahanan27@gmail.com
+<div align="center">
 
-💼 **LinkedIn:** [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/m-kishore-kumar-m?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
+</div>
 
 ---
 
-<h3 align="center">
- Thanks for visiting my profile! 
-</h3>
+# Connect
+
+Email
+
+```
+kishorekumarmayilvahanan27@gmail.com
+```
+
+LinkedIn
+
+```
+[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/m-kishore-kumar-m?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+```
+
+---
+
+<div align="center">
+
+*"Building scalable software with clean architecture and continuous learning."*
+
+</div>
