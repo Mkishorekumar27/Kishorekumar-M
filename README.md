@@ -12,13 +12,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="[[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank](https://www.linkedin.com/in/m-kishore-kumar-m?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://www.linkedin.com/in/m-kishore-kumar-m?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/Kishorekumar M">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
 
 </div>
 
